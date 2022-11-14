@@ -1,3 +1,6 @@
 [submodule "2020"]
 	path = 2020
 	url = git@github.com:appinha/adventofcode_2020.git
+[submodule "2021"]
+	path = 2021
+	url = git@github.com:appinha/adventofcode_2021.git
