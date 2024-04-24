@@ -7,3 +7,6 @@
 [submodule "2015"]
 	path = 2015
 	url = git@github.com:appinha/adventofcode_2015.git
+[submodule "2022"]
+	path = 2022
+	url = https://github.com/appinha/advent_of_code-2022
