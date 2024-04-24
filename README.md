@@ -30,13 +30,31 @@
 
 ## 🗓️ My solutions for each year
 
+- [📁 2023](2023)
+- [📁 2022](2022)
 - [📁 2021](2021)
 - [📁 2020](2020)
 - [📁 2015](2015)
 
 ## 📃 Theme of each year
 
-### 2021
+### [2023](https://adventofcode.com/2023/)
+
+>Something is wrong with global snow production, and you've been selected to take a look. The Elves have even given you a map; on it, they've used stars to mark the top fifty locations that are likely to be having problems.
+>
+>You've been doing this long enough to know that to restore snow operations, you need to check all fifty stars by December 25th.
+>
+>Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
+
+### [2022](https://adventofcode.com/2022/)
+
+>Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
+>
+>To supply enough magical energy, the expedition needs to retrieve a minimum of fifty stars by December 25th. Although the Elves assure you that the grove has plenty of fruit, you decide to grab any fruit you see along the way, just in case.
+>
+>Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
+
+### [2021](https://adventofcode.com/2021/)
 
 > You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 >
@@ -46,7 +64,7 @@
 >
 > Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
-### 2020
+### [2020](https://adventofcode.com/2020/)
 
 > After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
 >
@@ -56,7 +74,7 @@
 >
 > Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
-### 2015
+### [2015](https://adventofcode.com/2015/)
 
 > Santa was hoping for a white Christmas, but his weather machine's "snow" function is powered by stars, and he's fresh out! To save Christmas, he needs you to collect fifty stars by December 25th.
 >
